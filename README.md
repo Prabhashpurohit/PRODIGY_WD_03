@@ -16,7 +16,8 @@ This is a fun, interactive **Tic Tac Toe** game built with **HTML, CSS, and Java
 
 ## 📸 Preview
 
-![Game Screenshot]--(![alt text](image.png)) 
+<img width="1918" height="1028" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/b1256da6-a3df-41b5-8139-f91243a4e514" />
+
 
 ---
 
